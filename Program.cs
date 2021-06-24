@@ -18,14 +18,42 @@ namespace LinqLab
                 Console.WriteLine(n);
             }
 
+            Console.WriteLine("1) Find the smallest value");
             int result = nums.Min();
-            int result2 = nums.Max();
-            double result3 = nums.Average();
-
             Console.WriteLine("Min Value: {0}", result);
-            Console.WriteLine("Max Value: {0}", result2);
-            Console.WriteLine("Average Value: {0}", result3);
 
+            Console.WriteLine("2) Find the largest value");
+            int result2 = nums.Max();
+            Console.WriteLine("Max Value: {0}", result2);
+
+            Console.WriteLine();
+            Console.WriteLine("3) Find the largest value less than 10000");
+            List<int> filteredNums = nums.Where(x => x < 10000).ToList();
+            int largestUnder10k = filteredNums.Max();
+            Console.WriteLine(largestUnder10k);
+
+
+            Console.WriteLine();
+            Console.WriteLine("4) Find all numbers between 10 and 100");
+            List<int> nums10to100 = nums.Where(x => x >= 10 && x <= 100).ToList();
+            foreach (int num in nums10to100)
+            {
+                Console.WriteLine(num);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("5) Find all numbers between 100000 and 999999");
+            List<int> nums100000to999999 = nums.Where(x => x >= 100000 && x <= 999999).ToList();
+            foreach (int num in nums100000to999999)
+            {
+                Console.WriteLine(num);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("6) Count all the even numbers");
+            List<int> evens = nums.Where(x => x % 2 == 0).ToList();
+            int countEvens = evens.Count();
+            Console.WriteLine(countEvens);
 
             List<Student> students = new List<Student>();
             {
