@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RzxJ0ZnnVHpLMKwH5zRfpahUPRoFzD+tK6bKAmOBecODajghii8VdrQUq13HmGuwOyZ4TpEZhczkzg8OXB55Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jerome\\Desktop\\Grand Circus\\LinqLab\\LinqLab\\LinqLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerome\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jerome\\.nuget\\packages\\system.reactive.linq\\5.0.0\\system.reactive.linq.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jerome\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

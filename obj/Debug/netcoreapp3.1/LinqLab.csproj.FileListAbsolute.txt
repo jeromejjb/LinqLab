@@ -1,0 +1,17 @@
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.exe
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.deps.json
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.json
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.dev.json
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.dll
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.pdb
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.AssemblyReference.cache
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfoInputs.cache
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfo.cs
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.dll
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.pdb
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.genruntimeconfig.cache
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Jerome\Desktop\Grand Circus\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.CopyComplete
